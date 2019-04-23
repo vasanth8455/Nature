@@ -7,4 +7,3 @@ System.out.println("Hiii...this is example program....");
 System.out.println("[DThe value of c is..:"+c);
 }
 }
-
